@@ -1,5 +1,3 @@
-# Notes - EfficientML.ai
-
 My markdown notes and Jupyter notebooks for the [efficientML.ai](https://efficientml.ai/) course videos from MIT's HAN Lab, with explanations and implementation details.
 The course explores how to make machine learning more efficient by reducing computational costs and improving hardware utilization.
 
