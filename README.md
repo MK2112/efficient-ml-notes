@@ -74,7 +74,6 @@ The course explores how to make machine learning more efficient by reducing comp
   </tbody>
 </table>
 
-
 The notes can be viewed directly on GitHub, no special setup required.<br>
 I recommend using [Obsidian](https://obsidian.md/) for best offline experience.
 
