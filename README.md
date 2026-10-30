@@ -4,7 +4,7 @@ The course explores how to make machine learning more efficient by reducing comp
 <table style="width: 100%">
   <thead>
     <tr>
-      <th>Lecture Video</th>
+      <th>Lecture Videos</th>
       <th>Notes</th>
     </tr>
   </thead>
